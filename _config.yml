@@ -11,7 +11,7 @@ title                    : "A K M Amanat Ullah"
 title_separator          : "-"
 name                     : &name "A K M Amanat Ullah"
 description              : &description "I am a PhD studnt at University of British Columbida, okanagan campus"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : amanat9/amanat9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amanat9/amanat9.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "amanat9"
   google_plus      :
   keybase          :
   instagram        :
