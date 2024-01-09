@@ -80,21 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "A K M Amanat Ullah"
+  avatar           : "amanat.jpg"
+  bio              : "I am a PhD studnt at University of British Columbida, okanagan campus"
+  location         : "Kelowna, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=dEf6WZYAAAAJ&view_op=list_works&gmla=AJ1KiT3L4a0zytXCh3yw5LJ60-RsGGm8boY0EDXrd0L0rb1CUKVpRyhPHfrD9xGTkw3gv9bdCb39Q5rqvV4ExTxB"
+  email            : "amanat.ndc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/amanat.cse"
   foursquare       :
   github           : "amanat9"
   google_plus      :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5402-0160"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
