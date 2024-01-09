@@ -1,15 +1,15 @@
 ---
-title: "Exploring Users Pointing Performance on Large Displays with Different Curvatures in Virtual Reality"
+title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2023-11-00-exploring-users-pointing-performance
-excerpt: 'This paper explores users' pointing performance on large displays with different curvatures in virtual reality.'
-date: 2023-11-00
-venue: 'IEEE Transactions on Visualization and Computer Graphics'
-paperurl: 'https://ieeexplore.ieee.org/document/3320242'
-citation: 'A. K. M. A. Ullah, W. Delamare, and K. Hasan. (2023). "Exploring Users Pointing Performance on Large Displays with Different Curvatures in Virtual Reality." <i>IEEE Transactions on Visualization and Computer Graphics</i>, 29(11), 4535-4545.'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper explores users' pointing performance on large displays with different curvatures in virtual reality.
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](https://ieeexplore.ieee.org/document/3320242)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: A. K. M. A. Ullah, W. Delamare, and K. Hasan. (2023). "Exploring Users Pointing Performance on Large Displays with Different Curvatures in Virtual Reality." <i>IEEE Transactions on Visualization and Computer Graphics</i>, 29(11), 4535-4545.
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
